@@ -30,7 +30,7 @@ const DestinationnSearch = () => {
         console.log(data, details);
       }}
      style ={{textInput:styles.textInput}}
-      fetchDetails
+      // fetchDetails
       // query={{
       //   key: 'AIzaSyD4kQ4o_LHr51DNt9xx65FWGSfzwESCnE4',
       //   language: 'en',

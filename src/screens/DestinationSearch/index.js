@@ -31,10 +31,10 @@ const DestinationnSearch = () => {
       }}
      style ={{textInput:styles.textInput}}
       fetchDetails
-      query={{
-        key: 'AIzaSyD4kQ4o_LHr51DNt9xx65FWGSfzwESCnE4',
-        language: 'en',
-      }}
+      // query={{
+      //   key: 'AIzaSyD4kQ4o_LHr51DNt9xx65FWGSfzwESCnE4',
+      //   language: 'en',
+      // }}
     />
       </View>  
       
